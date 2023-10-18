@@ -1,0 +1,40 @@
+.header{
+    text-align: center;
+    padding: 10px;
+    
+}
+
+
+.titre{
+    background-color: aliceblue;
+    padding: 19px 6px;
+    margin:0 335px ;
+    color: rgb(23, 57, 167);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+   
+}
+body{
+    
+    background-image: url("image/img.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#resultat{
+    background: white ;
+    margin:20 325px ;
+    opacity: 0.9;
+  
+}
+
+button {
+    cursor: pointer;
+}
+.timer{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    text-align: center;
+}
